@@ -1,5 +1,7 @@
 <?php
 
+
+
 class stundenplan extends db implements Dmlable {
 
     private $abgezeichnet_id;
