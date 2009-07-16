@@ -1,6 +1,6 @@
 <?php
 
-+
+++++
 
 class stundenplan extends db implements Dmlable {
 
